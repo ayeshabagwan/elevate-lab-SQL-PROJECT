@@ -1,0 +1,101 @@
+customer_id,customer_name,email,duplicate_email,payment_status,amount_paid,created_at,comment
+64,Johann Whicher,jwhicher0@myspace.com,email2,Failed,9558.57,2019-10-29T12:20:18Z,More details
+61,Cam Mordey,cmordey1@seesaa.net,null,Failed,3323.39,2018-12-05T22:28:30Z,null
+5,Sondra Helkin,shelkin2@netscape.com,email2,faild,3089.71,2017-05-16T06:55:03Z,Another comment
+90,Peg Smithe,psmithe3@dagondesign.com,email3,pendng,3873.46,2018-09-07T19:18:35Z,Some notes
+91,Lesley Garham,lgarham4@seesaa.net,email2,Pending,3139.95,2021-05-01T17:10:04Z,Some notes
+29,Milka Carbin,mcarbin5@sina.com.cn,email4,faild,818.37,2021-10-12T15:53:35Z,More details
+24,Christoper Pennetta,cpennetta6@hubpages.com,email4,Paid,1904.69,2019-03-27T16:50:53Z,Random text here
+20,Ki Franzolini,kfranzolini7@phpbb.com,email5,pendng,3440.42,2017-03-27T04:50:04Z,Random text here
+57,Urbain Lovemore,ulovemore8@gov.uk,null,Failed,494.16,2019-04-26T13:13:08Z,Another comment
+18,Aymer Filkov,afilkov9@icio.us,email4,faild,8405.82,2019-09-03T04:42:10Z,null
+90,Grayce Frisch,gfrischa@theglobeandmail.com,email4,faild,9114.25,2021-10-17T19:18:11Z,Some notes
+4,Yoko O'Carran,yocarranb@tripod.com,email5,pendng,9197.14,2017-08-14T04:44:38Z,Random text here
+6,Silvio Attryde,sattrydec@sciencedaily.com,email4,faild,6706.6,2021-08-11T02:07:13Z,null
+28,Giff Lancaster,glancasterd@nydailynews.com,email5,Paid,3181.41,2017-07-10T21:15:45Z,Some notes
+73,Correy Crossley,ccrossleye@bing.com,email4,Failed,2902.14,2020-12-06T05:45:56Z,More details
+39,Berty Burley,bburleyf@oracle.com,email3,Failed,6424.28,2021-03-06T07:43:06Z,Some notes
+41,Hubert Spratley,hspratleyg@thetimes.co.uk,email1,Failed,823.9,2019-01-27T08:10:46Z,More details
+88,Camilla Divers,cdiversh@flickr.com,email5,Paid,3624.09,2017-12-01T17:54:32Z,Another comment
+68,Vassili Shortland,vshortlandi@quantcast.com,email4,Paid,165.27,2020-08-26T10:56:44Z,Another comment
+2,Jerrie Bernolet,jbernoletj@ustream.tv,email1,paidd,8184.02,2019-12-03T07:07:19Z,null
+96,Ringo Francesc,rfrancesck@harvard.edu,email2,pendng,5267.47,2020-04-29T10:14:53Z,Another comment
+59,Lida Dickin,ldickinl@gmpg.org,email4,Paid,4372.17,2020-12-31T22:14:22Z,Random text here
+94,Gennifer Bladon,gbladonm@cyberchimps.com,email3,paidd,9377.1,2021-05-07T01:24:52Z,Random text here
+54,Park Juszkiewicz,pjuszkiewiczn@51.la,email1,paidd,4491.91,2019-09-08T05:13:53Z,Random text here
+72,Reinaldo Kernell,rkernello@aol.com,null,faild,4050.71,2020-11-21T13:21:37Z,Random text here
+57,Giselbert Simion,gsimionp@w3.org,null,Pending,7889.67,2021-06-27T05:26:07Z,Some notes
+39,Romonda Sigmund,rsigmundq@sitemeter.com,null,pendng,3327.4,2019-01-12T19:16:05Z,Random text here
+17,Kelli Poppleston,kpopplestonr@illinois.edu,email4,Paid,5447.58,2018-03-02T08:35:54Z,More details
+89,Grazia Rosentholer,grosentholers@stanford.edu,email3,Failed,7989.59,2017-09-08T17:12:25Z,More details
+64,Glad Roebottom,groebottomt@amazon.de,email1,paidd,6680.73,2021-08-06T07:57:07Z,null
+81,Hermina Woolger,hwoolgeru@slate.com,null,Paid,7142.68,2017-11-09T15:04:54Z,More details
+68,Westleigh Hann,whannv@arstechnica.com,email4,Pending,2662.38,2017-08-22T09:19:36Z,More details
+20,Adrien Mungin,amunginw@tinypic.com,email2,Failed,2665.23,2020-10-12T04:18:06Z,Some notes
+96,Daryl Featherstone,dfeatherstonex@lulu.com,email3,paidd,4989.31,2018-09-01T05:23:31Z,null
+10,Honey Drable,hdrabley@netlog.com,email1,Paid,5428.5,2021-05-12T16:10:28Z,Some notes
+94,Lilith Heindrick,lheindrickz@statcounter.com,email3,faild,5784.08,2019-09-01T00:38:10Z,Random text here
+50,Lilla Iacomelli,liacomelli10@google.nl,email5,faild,9899.61,2021-12-12T10:40:23Z,More details
+45,Sammy Lenox,slenox11@dell.com,null,Paid,8795.45,2017-04-02T06:39:22Z,Another comment
+89,Cindie Waterhous,cwaterhous12@japanpost.jp,null,Pending,2598.96,2017-02-17T18:03:36Z,More details
+90,Perl McKibbin,pmckibbin13@noaa.gov,email5,pendng,8421.49,2019-04-28T18:53:05Z,null
+50,Tallie Allom,tallom14@mapy.cz,email4,paidd,9178.32,2020-07-30T23:36:15Z,null
+11,Rikki Cable,rcable15@intel.com,email5,Paid,5373.92,2020-05-01T12:48:42Z,Another comment
+28,Giralda Tenby,gtenby16@scientificamerican.com,email5,Paid,5794.85,2017-12-15T14:59:28Z,null
+8,Claresta Tyer,ctyer17@wordpress.com,email3,Pending,821.36,2017-12-12T11:02:50Z,Random text here
+28,Daniele Savoury,dsavoury18@mysql.com,email3,faild,9415.25,2018-11-29T12:27:16Z,null
+25,Michail Gabits,mgabits19@about.com,email2,paidd,5454.99,2021-06-15T13:45:34Z,More details
+89,Cinda Aslen,caslen1a@adobe.com,email4,paidd,6252.72,2021-07-06T21:07:54Z,Random text here
+1,Aurea Quant,aquant1b@yellowbook.com,null,Pending,5132.22,2018-05-12T01:06:42Z,Another comment
+59,Glad Gracewood,ggracewood1c@wordpress.org,email4,Pending,2265.18,2017-05-11T15:23:06Z,More details
+86,Guinna Cowup,gcowup1d@plala.or.jp,email3,Paid,491.35,2017-02-12T06:15:09Z,Some notes
+20,Edvard Keaves,ekeaves1e@vimeo.com,null,Paid,5443.11,2018-04-28T11:39:47Z,null
+64,Griffy Dog,gdog1f@blinklist.com,email5,Failed,2426,2019-07-05T14:22:07Z,null
+80,Joane Petrolli,jpetrolli1g@linkedin.com,email2,paidd,620.58,2017-07-08T06:24:57Z,Another comment
+62,Auberon Murr,amurr1h@boston.com,null,pendng,2383,2021-01-29T23:43:00Z,More details
+57,Ros Kalisch,rkalisch1i@flickr.com,email5,faild,3991.85,2020-06-29T16:38:03Z,More details
+7,Binni Malcolmson,bmalcolmson1j@unblog.fr,email5,pendng,4912.93,2020-11-20T17:15:36Z,More details
+55,Babita Shakelady,bshakelady1k@noaa.gov,email4,Paid,5375.5,2017-01-25T13:02:37Z,Another comment
+55,Paulina Bowry,pbowry1l@globo.com,email4,paidd,5234.55,2018-12-26T03:19:21Z,Random text here
+44,Drusilla Hilland,dhilland1m@goodreads.com,email5,Failed,6358.6,2018-07-26T00:56:12Z,null
+61,Land Tomaschke,ltomaschke1n@rakuten.co.jp,email5,pendng,7625.02,2020-01-12T08:06:11Z,Random text here
+7,Darice Surguine,dsurguine1o@nature.com,email3,Failed,9926.67,2019-08-16T22:47:46Z,More details
+82,Myrwyn Graine,mgraine1p@newsvine.com,null,faild,5808.76,2018-11-19T19:47:05Z,More details
+34,Cozmo Dorwood,cdorwood1q@si.edu,email3,faild,4451.03,2017-11-26T10:39:03Z,Another comment
+52,Karolina Boch,kboch1r@state.tx.us,email3,Failed,3545.88,2017-07-25T00:36:04Z,null
+35,Dolorita Ker,dker1s@ucoz.ru,email2,Paid,9236.71,2020-02-22T17:20:06Z,Some notes
+1,Wye Paliser,wpaliser1t@walmart.com,email4,Pending,3307.77,2018-02-28T06:10:43Z,More details
+29,Demetris Gready,dgready1u@list-manage.com,email3,faild,9705.08,2019-03-10T08:49:06Z,Another comment
+60,Franklyn Povall,fpovall1v@archive.org,email2,faild,240.34,2020-12-08T19:29:44Z,Random text here
+59,Taryn Gissing,tgissing1w@pen.io,email4,pendng,1412.01,2018-10-28T19:15:54Z,Random text here
+59,Lucky Longworth,llongworth1x@example.com,email5,Failed,7676.36,2018-01-24T21:04:49Z,null
+50,Minetta Luppitt,mluppitt1y@discovery.com,email1,pendng,6598.52,2021-03-27T14:31:30Z,Another comment
+64,Manolo Tomik,mtomik1z@unblog.fr,email2,Failed,5988.82,2017-09-09T09:09:14Z,More details
+97,Avictor Harty,aharty20@technorati.com,email1,paidd,6685.34,2021-01-21T10:30:38Z,Some notes
+71,Onfre Haack,ohaack21@cocolog-nifty.com,email4,pendng,8271.58,2021-09-19T21:27:34Z,Another comment
+14,Heda Sanchiz,hsanchiz22@arizona.edu,email2,Failed,6199.56,2019-02-24T16:43:12Z,Some notes
+32,Leonard Jon,ljon23@cnet.com,email5,Failed,4380.59,2019-11-04T06:08:58Z,null
+56,Elinor Krishtopaittis,ekrishtopaittis24@wordpress.com,email4,Pending,3122.64,2019-03-27T02:26:48Z,Some notes
+6,Mason Janaszkiewicz,mjanaszkiewicz25@imageshack.us,email2,Failed,6753.01,2019-06-01T00:42:34Z,Another comment
+20,Myrta Hegdonne,mhegdonne26@acquirethisname.com,null,faild,9531.22,2021-01-21T20:59:25Z,Another comment
+88,Jana Cristofaro,jcristofaro27@wikimedia.org,email5,paidd,9881.35,2019-12-15T06:42:19Z,Random text here
+67,Genia Verty,gverty28@blogtalkradio.com,null,Pending,3195.44,2021-10-15T22:58:49Z,null
+60,Davine Lillford,dlillford29@360.cn,email5,pendng,1723.35,2021-07-28T11:50:26Z,null
+19,Alida Huckett,ahuckett2a@lycos.com,email4,Pending,3582.35,2021-09-05T09:17:12Z,Another comment
+26,Chloette O'Luney,coluney2b@usgs.gov,email5,pendng,6027.73,2021-10-04T11:54:08Z,null
+62,Harrison Runacres,hrunacres2c@123-reg.co.uk,email2,paidd,3643.79,2017-02-22T07:59:17Z,Random text here
+86,Vanya Hirtz,vhirtz2d@illinois.edu,email5,Failed,3755.82,2018-07-13T22:13:55Z,Random text here
+22,Sally Slocombe,sslocombe2e@comsenz.com,email5,Failed,917.79,2021-03-25T14:55:12Z,null
+96,Rolando Penchen,rpenchen2f@ihg.com,email5,Failed,3836.37,2017-11-29T06:55:09Z,null
+57,Correy Runnicles,crunnicles2g@mail.ru,email5,paidd,6997.23,2019-06-21T14:52:52Z,Another comment
+39,Gabe Monkleigh,gmonkleigh2h@berkeley.edu,email2,Pending,5530.14,2017-04-05T13:25:46Z,Another comment
+36,Minni Beric,mberic2i@stumbleupon.com,null,Failed,6770.55,2018-08-26T02:05:33Z,Another comment
+20,Garold Danton,gdanton2j@prnewswire.com,email5,faild,8936.96,2017-10-05T08:37:43Z,Another comment
+62,Faustina Jorger,fjorger2k@elegantthemes.com,null,Paid,2277.21,2017-04-17T04:17:31Z,Another comment
+27,Rivalee Connold,rconnold2l@kickstarter.com,null,Paid,8318,2017-10-24T05:40:14Z,Random text here
+24,Selena Dornin,sdornin2m@w3.org,email2,Failed,2062.92,2017-06-21T14:29:57Z,Some notes
+49,Holly-anne Cristofanini,hcristofanini2n@dion.ne.jp,email5,pendng,308.43,2017-05-02T00:34:39Z,Another comment
+30,Ally Hawke,ahawke2o@harvard.edu,email2,Failed,2540.47,2021-12-14T08:56:36Z,Random text here
+9,Sully Linstead,slinstead2p@cbc.ca,email3,Failed,760.75,2017-02-22T05:59:12Z,Another comment
+1,Alisa Vasenin,avasenin2q@indiatimes.com,email2,Failed,3985.73,2021-10-18T00:50:24Z,Random text here
+44,Nye Josum,njosum2r@apache.org,email1,paidd,4208.99,2018-08-04T14:04:15Z,Random text here
